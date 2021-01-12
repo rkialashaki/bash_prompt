@@ -1,0 +1,4 @@
+#directory colors
+export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
+PROMPT='%F{red}[%n%f%F{white}@%f%F{227}%m%f%F{red}]%f %F{cyan}%D{%+} %F{12}%l%f'$'\n''%F{white}[%f%F{201}%~%f%F{white}]%f'$'\n''%(?.%F{green}√.%F{red}?%?)%f %F{white}%#%f '
+#PROMPT='%F{red}[%n%f%F{white}@%f%F{227}%m%f%F{red}]%f %F{cyan}%D{%D %H:%M:%S} %F{12}%l%f'$'\n''%F{white}[%f%F{201}%~%f%F{white}]%f'$'\n''%(?.%F{green}√.%F{red}?%?)%f %F{white}%#%f '
