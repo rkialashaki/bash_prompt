@@ -1,9 +1,8 @@
 #directory colors
 export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
-PROMPT='[%F{green}%n%f%F{white}@%f%F{227}%m%f] %F{cyan}%D{%D %H:%M:%S} %F{12}%l%f'$'\n''%F{white}[%f%F{201}%~%f%F{white}]%f'$'\n''%(?.%F{green}√.%F{red}?%?)%f %F{white}%#%f '
-#
-#
+PROMPT='[%F{green}%n%f%F{white}@%f%F{227}%m%f] %F{cyan}%D{%+} %F{12}%l%f'$'\n''%F{white}[%f%F{201}%~%f%F{white}]%f'$'\n''%(?.%F{green}√.%F{red}?%?)%f %F{white}%#%f '
 #PROMPT='%F{green}%n%f@%m %~ %# '
 #PROMPT='%F{green}%n%f%F{white}@%f%F{yellow}%m%f %F{cyan}%~%f %F{white}%#%f '
 #PROMPT='%(?.%F{green}√.%F{red}?%?)%f [%F{green}%n%f%F{white}@%f%F{227}%m%f] %F{201}%~%f %F{white}%#%f '
 #PROMPT='%(?.%F{green}√.%F{red}?%?)%f [%F{green}%n%f%F{white}@%f%F{227}%m%f] %F{cyan}%D{%D %H:%M:%S} %F{12}%l%f %F{201}%~%f %F{white}%#%f '
+#PROMPT='[%F{green}%n%f%F{white}@%f%F{227}%m%f] %F{cyan}%D{%D %H:%M:%S} %F{12}%l%f'$'\n''%F{white}[%f%F{201}%~%f%F{white}]%f'$'\n''%(?.%F{green}√.%F{red}?%?)%f %F{white}%#%f '
